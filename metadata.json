@@ -1,0 +1,5 @@
+{
+  "name": "智策 - AI 智能计划生成器",
+  "description": "基于 Gemini AI 的个人计划制定助手。输入目标，自动生成分阶段的可执行计划，支持进度追踪与本地保存。",
+  "requestFramePermissions": []
+}
